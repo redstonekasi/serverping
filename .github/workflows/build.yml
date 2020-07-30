@@ -16,7 +16,7 @@ jobs:
       with:
         java-version: 1.8
     - name: Gradle Build
-      uses: eskatos/gradle-command-action@v1
+      uses: eskatos/gradle-command-action@v1.3.2
       with:
         gradle-version: wrapper
         arguments: build

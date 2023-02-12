@@ -4,7 +4,7 @@
   "package": "de.kasi.serverping.mixin",
   "compatibilityLevel": "JAVA_8",
   "server": [
-  	"QueryResponseMixin"
+    "PlayersMixin"
   ],
   "injectors": {
     "defaultRequire": 1
